@@ -10,15 +10,20 @@
 - I feel quite comfortable with some of the following tools, (less with
   others, but still I can deliver) be it programming languages or web
   server(s):
+
+  * AWK
   * C
   * C++
   * Django
   * Golang
+  * JavaScript / TypeScript
   * LaTeX
   * Lua
   * NGINX
   * Nelua
+  * Perl
   * PHP
   * Python
+  * Sed
   * Shell scripting (Bash, Classic Shell)
   * WordPress
