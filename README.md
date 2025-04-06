@@ -12,19 +12,19 @@
   others, but still I can deliver) be it programming languages or web
   server(s):
 
-  [x] AWK
-  [x] C
-  [x] C++
-  [x] Django
-  [x] Golang
-  [x] JavaScript / TypeScript
-  [x] LaTeX
-  [x] Lua
-  [x] NGINX
-  [x] Nelua
-  [x] Perl
-  [x] PHP
-  [x] Python
-  [x] Sed
-  [x] Shell scripting (Bash, Classic Shell)
-  [x] WordPress
+ - [x] AWK
+ - [x] C
+ - [x] C++
+ - [x] Django
+ - [x] Golang
+ - [x] JavaScript / TypeScript
+ - [x] LaTeX
+ - [x] Lua
+ - [x] NGINX
+ - [x] Nelua
+ - [x] Perl
+ - [x] PHP
+ - [x] Python
+ - [x] Sed
+ - [x] Shell scripting (Bash, Classic Shell)
+ - [x] WordPress
